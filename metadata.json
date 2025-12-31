@@ -1,0 +1,9 @@
+
+{
+  "name": "Waterberry CRM",
+  "description": "מערכת Waterberry המתקדמת לניהול לקוחות, מכירות, עובדים ושיווק מבוסס AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
