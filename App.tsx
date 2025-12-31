@@ -46,7 +46,6 @@ const PageWrapper: React.FC<{ children: React.ReactNode; showSidebar?: boolean }
 
       <main className="flex-1 flex flex-col min-w-0">
         <Navbar />
-        {/* Mobile Toggle */}
         <button 
           onClick={() => setMobileMenuOpen(true)}
           className="fixed bottom-6 left-6 z-[80] size-14 bg-primary text-white rounded-full shadow-2xl lg:hidden flex items-center justify-center"
