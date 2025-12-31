@@ -1,4 +1,3 @@
-
 import React, { useMemo, useState } from 'react';
 import { HashRouter, Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import { LanguageProvider, useLanguage } from './contexts/LanguageContext';
